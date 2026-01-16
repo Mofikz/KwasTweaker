@@ -1,0 +1,74 @@
+[
+  {
+    "Modules": [
+      {
+        "HudEditor": {
+          "Sticky": true,
+          "HudStyle": "Blurry",
+          "Separate": true,
+          "Hide": false,
+          "HeaderIcons": false,
+          "ArrowsStyle": "New",
+          "ColorMode": "Fade",
+          "ColorSpeed": 10,
+          "Light": true,
+          "Color": [
+            -65536,
+            false
+          ],
+          "Color2": [
+            -62966,
+            false
+          ],
+          "Color3": [
+            -65536,
+            false
+          ],
+          "PlateColor": [
+            -16777216,
+            false
+          ],
+          "PlateOpacity": 0.16,
+          "PlateOpacity2": 0.37,
+          "TextColor": [
+            -1286,
+            false
+          ],
+          "TextColor2": [
+            -31355,
+            false
+          ],
+          "BlurColor": [
+            1904159257,
+            false
+          ],
+          "HudRound": 3.93,
+          "GuiRound": 5.0,
+          "Alpha": 1.0,
+          "Blend": 2.33,
+          "Outline": 0.74,
+          "Glow": 0.15,
+          "BlurOpacity": 0.4,
+          "BlurStrength": 27.37,
+          "GlassTint": [
+            1728053247,
+            false
+          ],
+          "GlassOpacity": 0.35,
+          "GlassHighlight": 0.25,
+          "GlassBlurOpacity": 0.4,
+          "GlassBlurStrength": 12.0,
+          "HudGap": 5,
+          "ShiftRange": 60,
+          "ShiftTogether": true,
+          "Keybind": [
+            -1,
+            false
+          ],
+          "Drawn": true,
+          "Enabled": false
+        }
+      }
+    ]
+  }
+]
